@@ -8,5 +8,8 @@ export const InputComponent = ({ size, placeholder, style, ...rests }) => {
       style={style} 
       {...rests} 
     />
+    
+   
+    
   );
 }

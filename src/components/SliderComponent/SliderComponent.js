@@ -45,8 +45,8 @@ export const SliderComponent = ({ arrImage = [] }) => {
   const sliderStyle = {
     width: '100%',
     margin: '0 auto',
-    maxWidth: '90%',
-    height: '400px',
+    maxWidth: '100%'
+   
   };
 
   const imageWrapperStyle = {
