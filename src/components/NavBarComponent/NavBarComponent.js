@@ -11,6 +11,7 @@ export const NavBarComponent = () => {
                 return options.map((option, index) => (
                     <WapperTextValue key={index}>{option}</WapperTextValue>
                 ));
+         
 
             case 'checkbox':
                 return (

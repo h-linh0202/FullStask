@@ -17,6 +17,7 @@ export const TypeProductPage = () => {
 
             <Col span={20}>
               <WrapperProducts >
+                
                   <CardComponent/>
                   <CardComponent/>
                   <CardComponent/>
